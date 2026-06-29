@@ -2,7 +2,7 @@
 
 ## Información del Estudiante
 
-- **Nombre:** Dennys Vela
+- **Nombre:** Israel Plazarte
 - **Carrera:** Desarrollo de Software
 - **Fecha de inicio:** 11 de Junio de 2026
 
